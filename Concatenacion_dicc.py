@@ -24,7 +24,8 @@ def main():
         'num8': 56,
         'num9': 32
     }
-    
+    print(f"diccionario 1: {dicc1}")
+    print(f"diccionario 2: {dicc2}")
     print(f"El nuevo diccionario es: {conca_dicc(dicc1,dicc2)}")
 
 if __name__ == '__main__':
