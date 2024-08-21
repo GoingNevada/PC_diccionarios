@@ -19,6 +19,7 @@ Ejercicio 3:
 ![imagen](https://github.com/user-attachments/assets/9492a486-9aaa-4779-b6cd-cfc346adef04)
 
 Ejercicio 4:
+
 ![imagen](https://github.com/user-attachments/assets/c807137d-7716-4eb1-a2a6-9741cc2f1143)
 
 
